@@ -5,21 +5,46 @@ namespace Portfolio
     {
         // localhost:5000/
         [HttpGet("")]
-        public string Index()
+        public IActionResult Index()
         {
-            return "This is my Index!";
+            ViewBag.Example = "This is the Viewbag functionality";
+            // View looks the the file name that is name after your action
+            // Views/Main/IndexOfMe.cshtml << file extension for razor files
+            return View("Index");
         }
         // localhost:5000/projects
         [HttpGet("projects")]
-        public string Projects()
+        public IActionResult Projects()
         {
-            return "These are my projects";
+            return View("Projects");
         }
         // localhost:5000/contact
         [HttpGet("contact")]
-        public string Contact()
+        public IActionResult Contact()
         {
-            return "This is my Contact!";
+            return View("Contact");
+        }
+        // localhost:5000/hello
+        [HttpGet("hello")]
+        public IActionResult Hello()
+        {
+            // localhost:5000
+            return RedirectToAction("Projects");
+        }
+
+        [HttpGet("users/{username}/{location}")]
+        // localhost:5000/user/??
+        public IActionResult HelloUser(string username, string location)
+        {
+            var response = new{user=username, place=location};
+            if (location == "chicago")
+                return View("Index");
+
+            if(location == "Seattle")
+                return Json(response);
+
+
+            return RedirectToAction("Hello");
         }
     }
 }

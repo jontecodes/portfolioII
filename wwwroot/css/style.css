@@ -1,0 +1,15 @@
+* {
+    text-align: center;
+    box-sizing: border-box;
+    vertical-align: top;
+
+}
+.bio, .profile {
+    display: inline-block;
+    width: 40%;
+}
+
+.info, .message {
+    display: inline-block;
+    width: 40%;
+}

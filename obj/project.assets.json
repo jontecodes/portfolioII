@@ -11507,11 +11507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/amani/codingDojo/dotnet/asp-mvc/Portfolio/Portfolio.csproj",
+      "projectUniqueName": "/Users/amani/codingDojo/dotnet/asp-mvc/Portfolioll/Portfolio.csproj",
       "projectName": "Portfolio",
-      "projectPath": "/Users/amani/codingDojo/dotnet/asp-mvc/Portfolio/Portfolio.csproj",
+      "projectPath": "/Users/amani/codingDojo/dotnet/asp-mvc/Portfolioll/Portfolio.csproj",
       "packagesPath": "/Users/amani/.nuget/packages/",
-      "outputPath": "/Users/amani/codingDojo/dotnet/asp-mvc/Portfolio/obj/",
+      "outputPath": "/Users/amani/codingDojo/dotnet/asp-mvc/Portfolioll/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
