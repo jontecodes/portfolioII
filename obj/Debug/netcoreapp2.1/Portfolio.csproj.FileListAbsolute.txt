@@ -1,0 +1,14 @@
+/Users/amani/codingDojo/dotnet/asp-mvc/Portfolio/bin/Debug/netcoreapp2.1/Portfolio.deps.json
+/Users/amani/codingDojo/dotnet/asp-mvc/Portfolio/bin/Debug/netcoreapp2.1/Portfolio.runtimeconfig.json
+/Users/amani/codingDojo/dotnet/asp-mvc/Portfolio/bin/Debug/netcoreapp2.1/Portfolio.runtimeconfig.dev.json
+/Users/amani/codingDojo/dotnet/asp-mvc/Portfolio/bin/Debug/netcoreapp2.1/Portfolio.dll
+/Users/amani/codingDojo/dotnet/asp-mvc/Portfolio/bin/Debug/netcoreapp2.1/Portfolio.pdb
+/Users/amani/codingDojo/dotnet/asp-mvc/Portfolio/obj/Debug/netcoreapp2.1/Portfolio.csprojAssemblyReference.cache
+/Users/amani/codingDojo/dotnet/asp-mvc/Portfolio/obj/Debug/netcoreapp2.1/Portfolio.csproj.CoreCompileInputs.cache
+/Users/amani/codingDojo/dotnet/asp-mvc/Portfolio/obj/Debug/netcoreapp2.1/Portfolio.RazorAssemblyInfo.cache
+/Users/amani/codingDojo/dotnet/asp-mvc/Portfolio/obj/Debug/netcoreapp2.1/Portfolio.RazorAssemblyInfo.cs
+/Users/amani/codingDojo/dotnet/asp-mvc/Portfolio/obj/Debug/netcoreapp2.1/Portfolio.AssemblyInfoInputs.cache
+/Users/amani/codingDojo/dotnet/asp-mvc/Portfolio/obj/Debug/netcoreapp2.1/Portfolio.AssemblyInfo.cs
+/Users/amani/codingDojo/dotnet/asp-mvc/Portfolio/obj/Debug/netcoreapp2.1/Portfolio.RazorTargetAssemblyInfo.cache
+/Users/amani/codingDojo/dotnet/asp-mvc/Portfolio/obj/Debug/netcoreapp2.1/Portfolio.dll
+/Users/amani/codingDojo/dotnet/asp-mvc/Portfolio/obj/Debug/netcoreapp2.1/Portfolio.pdb
